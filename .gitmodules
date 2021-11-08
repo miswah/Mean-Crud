@@ -1,3 +1,6 @@
 [submodule "design-app-api"]
 	path = design-app-api
 	url = https://github.com/obeymyshinnyrod/design-app-api.git
+[submodule "design-web"]
+	path = design-web
+	url = https://github.com/obeymyshinnyrod/design-web.git
